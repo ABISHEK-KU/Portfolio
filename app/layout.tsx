@@ -4,9 +4,10 @@ import { GeistMono } from "geist/font/mono";
 import "./globals.css";
 
 export const metadata: Metadata = {
-  title: "v0 App",
-  description: "Created with v0",
-  generator: "v0.app",
+  title: "Abishek k Portfolio",
+  description:
+    "Software Engineer with 2.7 + years of experience in full-stack and desktop application development. Skilled in building scalable web platforms and performant desktop applications using React, Vue Electron, Node.js, MongoDb and MySQL. Experienced in translating UI/UX designs into functional interfaces, working with real-time data (sockets/APIs), and ensuring efficient system integrations across tech stacks.",
+  generator: "",
 };
 
 export default function RootLayout({
